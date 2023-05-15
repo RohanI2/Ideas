@@ -1,0 +1,35 @@
+Quiz Buzzer App
+- Players press a button and code tells which player pressed first
+- Buzzer plays a sound when presssed
+- Used switch navigation to switch from one screen to another
+Weather App
+- Uses API to fetch data about the weather and displays the data
+MonkeyChunky App
+- Breaks down words into chunks
+- Plays the sound of those chunks
+E-Library
+- Allows to search for books and students
+- Lets you know which students have checked out a book and how many they have checked out
+- Used bottom and top navigation
+- Used lazy loading to only show the first 10 transactions of a student
+- FlatList component to organize the data
+ISS Location
+- Used API to figure out location of top 5 most dangerous meteors to Earth in real time
+- Used NASA API
+- Calculated threat score by considering miss distance from Earth and size of meteor
+- Showed all the data on a map
+Storytelling App
+- Used tab and drawer navigation together. Have to put one inside the other
+- Stored all the stories inside the feed screen
+- Styled it with FlatList
+
+1. Global warming- App that calcualtes the most efficient ways to use energy and suggests it to people
+2. Food shortage- Finds the total amount of food produced in farming and equally distributes it to people in need
+3. Pollution- Program that makes cars use less gas
+4. Losing things- Tracker that makes sure you never lose anything that you own
+5. Hydration- Thing that tracks how much water you need to drink to be well hyrdrated and healthy
+6. Nutrition- Tracker to find out how much carbs, sugars, protein you have inside your body and how much more you need to eat
+7. Homework- App that helps with copying text from a picture and filling out a document with it
+8. Shoes- App in shoes that changes the sole based on what surface you are running on
+9. Waking up- A bed that gives a small shock to you in the morning if you don't wake up when the alarm clock rings
+10. Donating- Platform where people can give money to people in need
